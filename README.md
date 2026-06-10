@@ -77,7 +77,9 @@ python Netflix_project_analysis.ipynb
 View generated plots and summary insights.
 
 🔑 Notes
+
 Dataset source: Netflix titles dataset (publicly available).
+
 Analysis exported to HTML and PDF.
 
 
